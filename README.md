@@ -29,3 +29,7 @@ Planned technologies:
 - GitHub Actions
 - Prometheus
 - Grafana
+
+## Long-term Goal
+
+Build a production-like cloud-native platform and learn to operate, observe, troubleshoot, automate and secure it.
