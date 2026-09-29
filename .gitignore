@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfplan
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs / temporary files
+*.log
+tmp/
